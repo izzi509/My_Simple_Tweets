@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Projects\\New folder\\MySimpleTweets\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_timeline.xml",
+        "source": "C:\\Projects\\New folder\\MySimpleTweets\\app\\src\\main\\res\\menu\\menu_timeline.xml"
+    },
+    {
+        "merged": "C:\\Projects\\New folder\\MySimpleTweets\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Projects\\New folder\\MySimpleTweets\\app\\src\\main\\res\\menu\\login.xml"
+    }
+]
